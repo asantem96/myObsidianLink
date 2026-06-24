@@ -31,8 +31,10 @@ streamingServices:
   - CatchPlay
 airing: false
 airedFrom: 10/03/2025
-airedTo: 12/19/2025
-watched: false
+airedTo: 2025-12-19
+status: false
+dateStarted:
+dateFinished:
 lastWatched: ""
 personalRating: 0
 tags: mediaDB/tv/series
