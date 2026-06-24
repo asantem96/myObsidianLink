@@ -4,3 +4,5 @@ views:
     filters:
       and:
         - file.inFolder("main/home/media/anime")
+    image: note.image
+    cardSize: 150
