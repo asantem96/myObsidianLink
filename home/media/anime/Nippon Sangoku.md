@@ -32,9 +32,14 @@ airedFrom: 04/06/2026
 airedTo: 06/22/2026
 watched: false
 lastWatched: ""
-personalRating: 0
+personalRating:
 tags:
   - anime
 dateStarted: 2026-05-21
 dateFinished: 2026-06-22
 ---
+★
+★★
+★★★
+★★★★
+★★★★★
