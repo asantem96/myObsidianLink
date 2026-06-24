@@ -8,6 +8,8 @@ views:
       - title
       - status
       - onlineRating
+      - dateStarted
+      - dateFinished
       - personalRating
     image: note.image
     cardSize: 150
