@@ -3,4 +3,4 @@ views:
     name: Table
     filters:
       and:
-        - file.hasLink("main/home/media")
+        - file.inFolder("main/home/media")
