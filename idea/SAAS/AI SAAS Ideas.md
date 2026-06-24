@@ -1,0 +1,7 @@
+
+#### Meeting Transcriber > Task
+Listens to full meeting and transcribes it into a full document of the meeting speech. AI scans and pulls tasks. Tasks are assigned according to roles. May need IAM management system. Roles must come prepackaged to achieve tasks assigning to roles.
+AI should extract priority arguments.
+
+#### AI “Arguments Generator” / [[Social Debate Tool SAAS]]
+User inputs an argument. AI generates the strongest argument for both sides with citations and logical fallacies in an opponents argument. AI takes the stance of a great debater, approaching the arguments from all angles and taking into consideration any other possible argument against it. Highlight and explain fallacies using our logical fallacy master list produced by University of Texas. The outputs should include a "weak" version, (strong version) "steelman",  and possible counter arguments to incentivize better debate practice. Gamify thinking with argument strength scores, grading them similar to professional debate judging. Additional service which goes through multiple rounds of simulated debate, with openings, rebuttals, cross examinations, and closings. Free with ads and limited to 25 arguments per day. No ads, unlimited arguments, advanced analysis. Quick share card -- Argument: "College should be free". Strength score: 7.2. Top Fallacy Detected: False Dilemma. Best Counterargument: "Free tuition shifts cost to taxpayers..." --- Liberal bias, no logical bias. 
