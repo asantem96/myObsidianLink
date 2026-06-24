@@ -32,9 +32,12 @@ streamingServices:
   - Muse Asia
 airing: true
 airedFrom: 04/11/2026
-airedTo: 06/27/2026
-watched: false
+airedTo: 2026-06-27
+status:
 lastWatched: ""
-personalRating: 0
+personalRating:
+  - 4️⃣ Great
 tags: mediaDB/tv/series
+dateStarted:
+dateFinished:
 ---
