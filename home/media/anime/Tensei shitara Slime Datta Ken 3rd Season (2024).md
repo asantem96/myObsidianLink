@@ -35,7 +35,7 @@ streamingServices:
   - MeWatch
   - Muse Asia
 airing: false
-airedFrom: 04/04/2024
+airedFrom: 2024-04-20
 airedTo: 2024-09-26
 status:
   - ✅ Watched
@@ -45,5 +45,5 @@ personalRating:
 tags:
   - anime
 dateFinished:
-dateStarted:
+dateStarted: 2024-09-28
 ---
