@@ -39,8 +39,10 @@ airedFrom: 04/04/2024
 airedTo: 09/26/2024
 watched: false
 lastWatched: ""
-personalRating: 0
-tags: mediaDB/tv/series
+personalRating:
+  - 4️⃣ Great
+tags:
+  - anime
 dateFinished:
 dateStarted:
 ---
