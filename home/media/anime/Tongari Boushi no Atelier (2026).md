@@ -23,17 +23,17 @@ duration: 23 min per ep
 onlineRating: 8.64
 actors: []
 image: https://cdn.myanimelist.net/images/anime/1726/155542.jpg
+airing: false
 released: true
 streamingServices:
   - Crunchyroll
   - Netflix
-airing: false
 airedFrom: 04/05/2026
 airedTo: 06/21/2026
 status:
   - ✅ Watched
-dateStarted:
-dateFinished:
+dateStarted: 2026-05-15
+dateFinished: 2026-06-22
 lastWatched: ""
 personalRating:
   - 4️⃣ Great
