@@ -1,5 +1,3 @@
-formulas:
-  Untitled: ""
 views:
   - type: cards
     name: Gallery View
@@ -8,9 +6,6 @@ views:
         - file.inFolder("main/home/media/anime")
     order:
       - title
-      - formula.Untitled
-      - dateStarted
-      - dateFinished
     image: note.image
     cardSize: 150
     imageFit: contain
