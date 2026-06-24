@@ -30,7 +30,8 @@ streamingServices: []
 airing: false
 airedFrom: 04/06/2026
 airedTo: 06/22/2026
-watched: true
+status:
+  - ✅ Watched
 personalRating: ★★★★☆
 dateStarted: 2026-05-21
 dateFinished: 2026-06-22
