@@ -1,8 +1,10 @@
 views:
   - type: cards
-    name: Table
+    name: Gallery View
     filters:
       and:
         - file.inFolder("main/home/media/anime")
     image: note.image
     cardSize: 150
+    imageFit: contain
+    imageAspectRatio: 1.4
