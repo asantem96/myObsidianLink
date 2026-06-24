@@ -36,7 +36,7 @@ airedFrom: 10/01/2018
 airedTo: 03/18/2019
 watched: false
 lastWatched: ""
-personalRating: 0
+personalRating:
 tags: mediaDB/tv/series
 dateFinished:
 dateStarted:
