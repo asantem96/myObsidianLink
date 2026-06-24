@@ -36,9 +36,10 @@ airedFrom: 10/01/2018
 airedTo: 2010-03-18
 status:
   - ✅ Watched
+dateStarted:
+dateFinished:
 lastWatched: ""
 personalRating:
+  - 5️⃣ Peak
 tags: mediaDB/tv/series
-dateFinished:
-dateStarted:
 ---
