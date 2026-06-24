@@ -6,6 +6,9 @@ views:
         - file.inFolder("main/home/media/anime")
     order:
       - title
+      - status
+      - onlineRating
+      - personalRating
     image: note.image
     cardSize: 150
     imageFit: contain
