@@ -9,6 +9,8 @@ views:
     order:
       - title
       - formula.Untitled
+      - dateStarted
+      - dateFinished
     image: note.image
     cardSize: 150
     imageFit: contain
