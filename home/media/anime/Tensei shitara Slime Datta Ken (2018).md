@@ -34,7 +34,9 @@ streamingServices:
 airing: false
 airedFrom: 10/01/2018
 airedTo: 03/18/2019
-watched: false
+status:
+  - ✅ Watched
+  - Done
 lastWatched: ""
 personalRating:
 tags: mediaDB/tv/series
