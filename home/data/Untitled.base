@@ -1,6 +1,6 @@
 views:
-  - type: table
+  - type: cards
     name: Table
     filters:
       and:
-        - file.inFolder("main/home/media")
+        - file.inFolder("main/home/media/anime")
