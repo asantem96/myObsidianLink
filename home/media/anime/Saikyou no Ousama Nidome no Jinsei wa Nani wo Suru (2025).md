@@ -30,10 +30,13 @@ streamingServices:
 airing: false
 airedFrom: 04/01/2025
 airedTo: 06/17/2025
-watched: false
+status:
+  - ✅ Watched
 dateStarted:
-dateFinished:
+dateFinished: 2025-07-29
 lastWatched: ""
-personalRating: 0
-tags: mediaDB/tv/series
+personalRating:
+  - 4️⃣ Great
+tags:
+  - anime
 ---
