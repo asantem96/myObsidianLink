@@ -37,7 +37,7 @@ streamingServices:
 airing: false
 airedFrom: 04/04/2024
 airedTo: 2024-09-26
-watched: false
+status: false
 lastWatched: ""
 personalRating:
   - 4️⃣ Great

@@ -36,7 +36,8 @@ streamingServices:
 airing: false
 airedFrom: 01/11/2021
 airedTo: 2021-03-29
-watched: false
+status:
+  - ✅ Watched
 lastWatched: ""
 personalRating:
   - 4️⃣ Great

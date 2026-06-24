@@ -33,10 +33,9 @@ streamingServices:
   - Netflix
 airing: false
 airedFrom: 10/01/2018
-airedTo: 03/18/2019
+airedTo: 2010-03-18
 status:
   - ✅ Watched
-  - Done
 lastWatched: ""
 personalRating:
 tags: mediaDB/tv/series
