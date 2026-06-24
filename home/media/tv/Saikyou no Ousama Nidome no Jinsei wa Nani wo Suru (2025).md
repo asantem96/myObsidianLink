@@ -31,6 +31,8 @@ airing: false
 airedFrom: 04/01/2025
 airedTo: 06/17/2025
 watched: false
+dateStarted:
+dateFinished:
 lastWatched: ""
 personalRating: 0
 tags: mediaDB/tv/series

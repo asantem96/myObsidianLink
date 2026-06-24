@@ -29,10 +29,13 @@ streamingServices:
 airing: true
 airedFrom: 03/31/2026
 airedTo: 06/23/2026
-watched: false
-lastWatched: ""
-personalRating: 0
-tags: mediaDB/tv/series
-dateStarted:
+status:
+  - 📺 Watching
+dateStarted: 2026-04-01
 dateFinished:
+lastWatched: ""
+personalRating:
+  - 3️⃣ Good
+tags:
+  - anime
 ---
