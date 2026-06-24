@@ -1,9 +1,14 @@
+formulas:
+  Untitled: ""
 views:
   - type: cards
     name: Gallery View
     filters:
       and:
         - file.inFolder("main/home/media/anime")
+    order:
+      - title
+      - formula.Untitled
     image: note.image
     cardSize: 150
     imageFit: contain
