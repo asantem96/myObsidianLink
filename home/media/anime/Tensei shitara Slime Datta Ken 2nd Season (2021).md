@@ -35,13 +35,13 @@ streamingServices:
   - iQIYI
 airing: false
 airedFrom: 01/11/2021
-airedTo: 03/29/2021
+airedTo: 2021-03-29
 watched: false
 lastWatched: ""
 personalRating:
   - 4️⃣ Great
-tags: mediaDB/tv/series
+tags:
+  - anime
 dateStarted:
 dateFinished:
-myRating:
 ---

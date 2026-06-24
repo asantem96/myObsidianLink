@@ -36,7 +36,7 @@ streamingServices:
   - Muse Asia
 airing: false
 airedFrom: 04/04/2024
-airedTo: 09/26/2024
+airedTo: 2024-09-26
 watched: false
 lastWatched: ""
 personalRating:
