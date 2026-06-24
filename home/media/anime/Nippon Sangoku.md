@@ -34,6 +34,6 @@ watched: false
 lastWatched: ""
 personalRating: 0
 tags: mediaDB/tv/series
-dateFinished:
+dateFinished: 2026-05-21
 dateStarted:
 ---
