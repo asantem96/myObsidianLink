@@ -11,6 +11,9 @@ views:
       - dateStarted
       - dateFinished
       - personalRating
+    sort:
+      - property: status
+        direction: DESC
     image: note.image
     cardSize: 150
     imageFit: contain
