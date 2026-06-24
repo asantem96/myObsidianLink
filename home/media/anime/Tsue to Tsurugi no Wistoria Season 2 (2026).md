@@ -34,10 +34,12 @@ airing: true
 airedFrom: 04/11/2026
 airedTo: 2026-06-27
 status:
+  - 📺 Watching
+dateStarted: 2026-04-29
+dateFinished:
 lastWatched: ""
 personalRating:
   - 4️⃣ Great
-tags: mediaDB/tv/series
-dateStarted:
-dateFinished:
+tags:
+  - anime
 ---
