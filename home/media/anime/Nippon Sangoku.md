@@ -33,7 +33,8 @@ airedTo: 06/22/2026
 watched: false
 lastWatched: ""
 personalRating: 0
-tags: mediaDB/tv/series
-dateFinished: 2026-05-21
-dateStarted:
+tags:
+  - anime
+dateStarted: 2026-05-21
+dateFinished: 2026-06-22
 ---
