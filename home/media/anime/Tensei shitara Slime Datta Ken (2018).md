@@ -38,4 +38,6 @@ watched: false
 lastWatched: ""
 personalRating: 0
 tags: mediaDB/tv/series
+dateFinished:
+dateStarted:
 ---
