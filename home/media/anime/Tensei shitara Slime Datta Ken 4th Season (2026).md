@@ -34,10 +34,10 @@ airedTo: unknown
 status:
   - ✅ Watched
 lastWatched: ""
+dateStarted: 2026-04-03
+dateFinished:
 personalRating:
   - 4️⃣ Great
 tags:
   - anime
-dateFinished:
-dateStarted:
 ---
