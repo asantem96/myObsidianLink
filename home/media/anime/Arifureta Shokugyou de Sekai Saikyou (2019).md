@@ -32,8 +32,12 @@ streamingServices:
 airing: false
 airedFrom: 07/07/2019
 airedTo: 10/06/2019
-watched: false
+status:
+  - ✅ Watched
+dateStarted:
+dateFinished:
 lastWatched: ""
-personalRating: 0
+personalRating:
+  - 4️⃣ Great
 tags: mediaDB/tv/series
 ---

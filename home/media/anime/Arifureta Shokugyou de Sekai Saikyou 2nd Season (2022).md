@@ -41,8 +41,12 @@ streamingServices:
 airing: false
 airedFrom: 01/12/2022
 airedTo: 03/30/2022
-watched: false
+status:
+  - ✅ Watched
+dateStarted:
+dateFinished:
 lastWatched: ""
-personalRating: 0
+personalRating:
+  - 3️⃣ Good
 tags: mediaDB/tv/series
 ---
