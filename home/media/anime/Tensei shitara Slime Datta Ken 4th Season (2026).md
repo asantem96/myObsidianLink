@@ -31,7 +31,8 @@ streamingServices:
 airing: true
 airedFrom: 04/02/2026
 airedTo: unknown
-watched: false
+status:
+  - ✅ Watched
 lastWatched: ""
 personalRating:
   - 4️⃣ Great
