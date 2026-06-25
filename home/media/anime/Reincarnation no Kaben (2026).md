@@ -32,11 +32,11 @@ streamingServices:
   - HIDIVE
   - Bahamut Anime Crazy
 airing: true
-airedFrom: 04/02/2026
+airedFrom: 2026-04-03
 airedTo: 06/25/2026
 status:
   - ✅ Watched
-dateStarted:
+dateStarted: 2026-05-03
 dateFinished: 2026-06-25
 lastWatched: ""
 personalRating:
