@@ -30,9 +30,9 @@ airing: true
 airedFrom: 03/31/2026
 airedTo: 06/23/2026
 status:
-  - 📺 Watching
+  - ✅ Watched
 dateStarted: 2026-04-01
-dateFinished:
+dateFinished: 2026-06-25
 lastWatched: ""
 personalRating:
   - 3️⃣ Good
