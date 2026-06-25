@@ -40,7 +40,7 @@ dateStarted: 2026-05-03
 dateFinished: 2026-06-25
 lastWatched: ""
 personalRating:
-  - 3️⃣ Good
+  - 2️⃣ Fair
 tags:
   - anime
 ---
