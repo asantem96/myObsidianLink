@@ -31,7 +31,7 @@ released: true
 streamingServices:
   - HIDIVE
   - Bahamut Anime Crazy
-airing: true
+airing: false
 airedFrom: 2026-04-03
 airedTo: 06/25/2026
 status:
