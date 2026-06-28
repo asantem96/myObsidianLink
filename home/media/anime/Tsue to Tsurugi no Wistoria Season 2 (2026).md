@@ -34,7 +34,7 @@ airing: true
 airedFrom: 04/11/2026
 airedTo: 2026-06-27
 status:
-  - 📺 Watching
+  - ✅ Watched
 dateStarted: 2026-04-29
 dateFinished:
 lastWatched: ""
