@@ -36,7 +36,7 @@ airedTo: 2026-06-27
 status:
   - ✅ Watched
 dateStarted: 2026-04-29
-dateFinished:
+dateFinished: 2026-06-28
 lastWatched: ""
 personalRating:
   - 4️⃣ Great
