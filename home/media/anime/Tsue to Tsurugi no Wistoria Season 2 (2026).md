@@ -37,7 +37,7 @@ status:
   - ✅ Watched
 dateStarted: 2026-04-29
 dateFinished: 2026-06-28
-lastWatched: ""
+lastWatched: 2026-06-28
 personalRating:
   - 4️⃣ Great
 tags:
