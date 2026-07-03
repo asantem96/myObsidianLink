@@ -41,8 +41,8 @@ airedTo: 2024-09-28
 status:
   - ✅ Watched
 personalRating:
-  - 4️⃣ Great
-dateStarted:
+  - 5️⃣ Peak
+dateStarted: 2024-06-21
 dateFinished: 2024-09-29
 lastWatched: ""
 tags:

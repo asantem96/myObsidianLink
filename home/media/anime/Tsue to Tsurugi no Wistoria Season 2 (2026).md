@@ -39,7 +39,7 @@ dateStarted: 2026-04-29
 dateFinished: 2026-06-28
 lastWatched: 2026-06-28
 personalRating:
-  - 4️⃣ Great
+  - 5️⃣ Peak
 tags:
   - anime
 ---
