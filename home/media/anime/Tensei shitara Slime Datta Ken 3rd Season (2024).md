@@ -44,6 +44,6 @@ personalRating:
   - 4️⃣ Great
 tags:
   - anime
-dateFinished:
 dateStarted: 2024-09-28
+dateFinished: 2024-09-30
 ---
