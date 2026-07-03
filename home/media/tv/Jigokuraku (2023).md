@@ -31,13 +31,13 @@ released: true
 streamingServices:
   - Netflix
 airing: false
-airedFrom: 03/31/2023
-airedTo: 2023-06-30
+airedFrom: 2023-04-01
+airedTo: 2023-07-01
 lastWatched: ""
 personalRating:
   - 5️⃣ Peak
 tags:
   - anime
 dateStarted:
-dateFinished:
+dateFinished: 2023-07-01
 ---
