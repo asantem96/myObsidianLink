@@ -30,7 +30,7 @@ streamingServices:
   - Muse Asia
 airing: false
 airedFrom: 04/02/2026
-airedTo: unknown
+airedTo: 2026-07-02
 status:
   - ✅ Watched
 lastWatched: ""
