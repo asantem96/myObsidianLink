@@ -31,7 +31,8 @@ airedTo: 07/01/2010
 status:
   - ✅ Watched
 lastWatched: ""
-personalRating: 0
+personalRating:
+  - 4️⃣ Great
 tags:
   - anime
 dateStarted: 2025-03-20
