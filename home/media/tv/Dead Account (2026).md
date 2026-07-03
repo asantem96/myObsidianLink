@@ -34,7 +34,7 @@ airedFrom: 2026-01-10
 airedTo: 2026-03-28
 lastWatched: 2026-04-01
 personalRating:
-  - 3️⃣ Good
+  - 4️⃣ Great
 tags: mediaDB/tv/series
 dateStarted: 2026-03-30
 dateFinished: 2026-04-01
