@@ -30,11 +30,11 @@ streamingServices:
   - Bilibili Global
   - CatchPlay
 airing: false
-airedFrom: 01/09/2026
-airedTo: 03/27/2026
-watched: false
+airedFrom: 2026-01-10
+airedTo: 2026-03-28
 lastWatched: ""
-personalRating: 0
+personalRating:
+  - 3️⃣ Good
 tags: mediaDB/tv/series
 dateStarted:
 dateFinished:
