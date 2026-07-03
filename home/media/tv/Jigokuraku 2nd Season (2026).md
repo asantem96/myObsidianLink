@@ -32,13 +32,15 @@ streamingServices:
   - Crunchyroll
   - Netflix
 airing: false
-airedFrom: 01/10/2026
-airedTo: 03/28/2026
+airedFrom: 2026-01-11
+airedTo: 2026-03-29
 lastWatched: ""
 personalRating:
   - 5️⃣ Peak
-tags: mediaDB/tv/series
-dateStarted:
+tags:
+  - anime
+dateStarted: 2026-01-08
 dateFinished:
 status:
+  - ✅ Watched
 ---
