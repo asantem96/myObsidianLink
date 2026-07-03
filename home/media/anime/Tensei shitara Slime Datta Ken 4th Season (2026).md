@@ -28,14 +28,14 @@ streamingServices:
   - Crunchyroll
   - Bahamut Anime Crazy
   - Muse Asia
-airing: true
+airing: false
 airedFrom: 04/02/2026
 airedTo: unknown
 status:
   - ✅ Watched
 lastWatched: ""
 dateStarted: 2026-04-03
-dateFinished: 2026-06-26
+dateFinished: 2026-07-03
 personalRating:
   - 4️⃣ Great
 tags:
