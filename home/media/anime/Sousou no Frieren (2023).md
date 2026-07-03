@@ -42,8 +42,13 @@ streamingServices:
 airing: false
 airedFrom: 09/28/2023
 airedTo: 03/21/2024
-watched: false
 lastWatched: ""
-personalRating: 0
-tags: mediaDB/tv/series
+personalRating:
+  - 4️⃣ Great
+tags:
+  - anime
+dateStarted:
+dateFinished:
+status:
+  - ✅ Watched
 ---
