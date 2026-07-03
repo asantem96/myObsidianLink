@@ -28,7 +28,7 @@ streamingServices:
   - Crunchyroll
   - Bilibili Global
 airing: false
-airedFrom: 2025-04-19
+airedFrom: 2025-04-15
 airedTo: 2025-06-17
 status:
   - ✅ Watched
