@@ -33,6 +33,7 @@ airing: true
 airedFrom: 2026-06-26
 airedTo: unknown
 status:
+  - 📺 Watching
 lastWatched: ""
 personalRating:
 tags:
