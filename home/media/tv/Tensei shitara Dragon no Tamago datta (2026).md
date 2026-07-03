@@ -31,12 +31,12 @@ streamingServices:
   - Bahamut Anime Crazy
   - CatchPlay
 airing: false
-airedFrom: 01/09/2026
+airedFrom: 2026-01-10
 airedTo: 03/27/2026
-watched: false
-lastWatched: ""
+status:
+  - ✅ Watched
+lastWatched: 2026-03-28
 personalRating:
-  - "0"
   - 3️⃣ Good
 tags:
   - anime
