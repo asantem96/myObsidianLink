@@ -34,13 +34,13 @@ streamingServices:
 airing: false
 airedFrom: 2026-01-11
 airedTo: 2026-03-29
-lastWatched: ""
+lastWatched: 2026-03-29
 personalRating:
   - 5️⃣ Peak
 tags:
   - anime
 dateStarted: 2026-01-08
-dateFinished:
+dateFinished: 2026-03-29
 status:
   - ✅ Watched
 ---

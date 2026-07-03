@@ -32,9 +32,11 @@ streamingServices:
   - Netflix
 airing: false
 airedFrom: 03/31/2023
-airedTo: 06/30/2023
-watched: false
+airedTo: 2023-06-30
 lastWatched: ""
-personalRating: 0
+personalRating:
+  - 5️⃣ Peak
 tags: mediaDB/tv/series
+dateStarted:
+dateFinished:
 ---
