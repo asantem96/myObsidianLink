@@ -32,7 +32,7 @@ streamingServices: []
 airing: true
 airedFrom: 2026-06-26
 airedTo: unknown
-watched:
+status:
 lastWatched: ""
 personalRating:
 tags:
