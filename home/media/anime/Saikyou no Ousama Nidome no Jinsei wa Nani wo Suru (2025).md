@@ -28,13 +28,13 @@ streamingServices:
   - Crunchyroll
   - Bilibili Global
 airing: false
-airedFrom: 04/01/2025
-airedTo: 06/17/2025
+airedFrom: 2025-04-19
+airedTo: 2025-06-17
 status:
   - ✅ Watched
-dateStarted:
+dateStarted: 2025-07-27
 dateFinished: 2025-07-29
-lastWatched: ""
+lastWatched: 2025-07-29
 personalRating:
   - 4️⃣ Great
 tags:
