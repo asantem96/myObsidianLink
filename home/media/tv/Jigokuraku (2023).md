@@ -36,7 +36,8 @@ airedTo: 2023-06-30
 lastWatched: ""
 personalRating:
   - 5️⃣ Peak
-tags: mediaDB/tv/series
+tags:
+  - anime
 dateStarted:
 dateFinished:
 ---
