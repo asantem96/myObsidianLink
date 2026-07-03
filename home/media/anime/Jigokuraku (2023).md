@@ -33,11 +33,13 @@ streamingServices:
 airing: false
 airedFrom: 2023-04-01
 airedTo: 2023-07-01
-lastWatched: ""
+lastWatched: 2023-07-01
 personalRating:
   - 5️⃣ Peak
 tags:
   - anime
-dateStarted:
+dateStarted: 2023-04-29
 dateFinished: 2023-07-01
+status:
+  - ✅ Watched
 ---
