@@ -33,8 +33,8 @@ streamingServices:
   - CatchPlay
   - iQIYI
 airing: false
-airedFrom: 01/07/2026
-airedTo: 03/25/2026
+airedFrom: 2026-01-08
+airedTo: 2026-03-26
 lastWatched: ""
 personalRating:
   - 4️⃣ Great
