@@ -32,7 +32,7 @@ streamingServices:
   - CatchPlay
 airing: false
 airedFrom: 2026-01-10
-airedTo: 03/27/2026
+airedTo: 2026-07-28
 status:
   - ✅ Watched
 lastWatched: 2026-03-28
