@@ -28,9 +28,14 @@ image: https://cdn.myanimelist.net/images/anime/1371/154308.jpg
 released: true
 streamingServices: []
 airing: true
-airedFrom: 07/02/2026
+airedFrom: 2026-07-03
 airedTo: unknown
 lastWatched: ""
-personalRating: 0
-tags: mediaDB/tv/series
+personalRating:
+tags:
+  - anime
+dateStarted: 2026-07-03
+dateFinished:
+status:
+  - 📺 Watching
 ---
