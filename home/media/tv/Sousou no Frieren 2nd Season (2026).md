@@ -35,10 +35,15 @@ streamingServices:
   - Muse Asia
   - iQIYI
 airing: false
-airedFrom: 01/15/2026
-airedTo: 03/26/2026
-watched: false
+airedFrom: 2026-01-15
+airedTo: 2026-03-26
 lastWatched: ""
-personalRating: 0
-tags: mediaDB/tv/series
+personalRating:
+  - 4️⃣ Great
+tags:
+  - anime
+dateStarted: 2026-02-25
+dateFinished: 2026-03-27
+status:
+  - ✅ Watched
 ---
