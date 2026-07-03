@@ -34,7 +34,8 @@ status:
   - 📺 Watching
 lastWatched: ""
 personalRating:
-tags: mediaDB/tv/series
-dateStarted:
+tags:
+  - anime
+dateStarted: 2026-07-02
 dateFinished:
 ---
