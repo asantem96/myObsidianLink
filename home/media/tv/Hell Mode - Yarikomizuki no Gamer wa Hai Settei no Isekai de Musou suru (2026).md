@@ -35,7 +35,7 @@ airing: false
 airedFrom: 01/09/2026
 airedTo: 03/27/2026
 lastWatched: ""
-personalRating: 0
+personalRating:
 tags: mediaDB/tv/series
 dateStarted:
 dateFinished:
