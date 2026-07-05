@@ -32,4 +32,5 @@ tags:
 dateStarted: 2026-07-03
 dateFinished:
 status:
+  - 📺 Watching
 ---
