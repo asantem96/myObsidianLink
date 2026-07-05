@@ -27,13 +27,13 @@ image: https://cdn.myanimelist.net/images/anime/1965/158363.jpg
 released: true
 streamingServices: []
 airing: true
-airedFrom: 07/03/2026
+airedFrom: 2026-07-04
 airedTo: unknown
-watched: false
 lastWatched: ""
-personalRating: 0
-tags: mediaDB/tv/series
-dateStarted:
+personalRating:
+tags:
+  - anime
+dateStarted: 2026-07-05
 dateFinished:
 status:
   - 📺 Watching
