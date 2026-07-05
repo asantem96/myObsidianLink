@@ -32,13 +32,15 @@ streamingServices:
   - Aniplus TV
   - iQIYI
 airing: false
-airedFrom: 01/09/2026
+airedFrom: 2026-01-09
 airedTo: 2026-03-27
 lastWatched: ""
 personalRating:
-tags: mediaDB/tv/series
-dateStarted:
-dateFinished:
+  - 4️⃣ Great
+tags:
+  - anime
+dateStarted: 2026-01-09
+dateFinished: 2026-03-27
 status:
   - ✅ Watched
 ---
