@@ -28,10 +28,13 @@ streamingServices:
   - Bahamut Anime Crazy
   - Muse Asia
 airing: true
-airedFrom: 2007-03-18
+airedFrom: 2026-07-05
 airedTo: unknown
-watched: false
-lastWatched: ""
+lastWatched: 2026-07-05
 personalRating: 0
 tags: mediaDB/tv/series
+dateStarted: 2026-07-05
+dateFinished:
+status:
+  - 📺 Watching
 ---
