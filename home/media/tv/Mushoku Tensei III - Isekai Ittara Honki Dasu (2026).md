@@ -31,8 +31,9 @@ airing: true
 airedFrom: 2026-07-05
 airedTo: unknown
 lastWatched: 2026-07-05
-personalRating: 0
-tags: mediaDB/tv/series
+personalRating:
+tags:
+  - anime
 dateStarted: 2026-07-05
 dateFinished:
 status:
