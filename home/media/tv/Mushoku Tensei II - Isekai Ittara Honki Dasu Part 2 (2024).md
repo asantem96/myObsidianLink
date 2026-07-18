@@ -37,8 +37,8 @@ streamingServices:
   - Muse Asia
   - iQIYI
 airing: false
-airedFrom: 04/07/2024
-airedTo: 06/30/2024
+airedFrom: 2021-10-04
+airedTo: 2021-12-20
 status:
   - ✅ Watched
 dateStarted:

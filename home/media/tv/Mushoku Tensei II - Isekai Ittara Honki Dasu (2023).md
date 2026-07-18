@@ -37,7 +37,7 @@ streamingServices:
 airing: false
 airedFrom: 07/09/2023
 airedTo: 09/24/2023
-watched: false
+st: false
 lastWatched: ""
 personalRating: 0
 tags: mediaDB/tv/series
