@@ -30,12 +30,12 @@ streamingServices:
 airing: true
 airedFrom: 2026-07-05
 airedTo: unknown
+status:
+  - 📺 Watching
 lastWatched: 2026-07-05
 personalRating:
 tags:
   - anime
 dateStarted: 2026-07-05
 dateFinished:
-status:
-  - 📺 Watching
 ---
