@@ -36,11 +36,13 @@ streamingServices:
   - iQIYI
 airing: false
 airedFrom: 2021-01-11
-status:
 airedTo: 2021-03-21
+status:
+  - ✅ Watched
 lastWatched: ""
 personalRating: 0
 tags:
+  - anime
 dateStarted:
 dateFinished:
 ---

@@ -30,8 +30,8 @@ released: true
 streamingServices:
   - Crunchyroll
 airing: false
-airedFrom: 10/03/2021
-airedTo: 12/19/2021
+airedFrom: 2021-10-04
+airedTo: 2021-12-19
 watched: false
 lastWatched: ""
 personalRating: 0
