@@ -40,7 +40,8 @@ airedTo: 2021-03-21
 status:
   - ✅ Watched
 lastWatched: ""
-personalRating: 0
+personalRating:
+  - 4️⃣ Great
 tags:
   - anime
 dateStarted:

@@ -31,9 +31,15 @@ streamingServices:
   - Crunchyroll
 airing: false
 airedFrom: 2021-10-04
-airedTo: 2021-12-19
-watched: false
+airedTo: 2021-12-20
+status:
+  - ✅ Watched
 lastWatched: ""
-personalRating: 0
-tags: mediaDB/tv/series
+personalRating:
+  - 4️⃣ Great
+tags:
+  - mediaDB/tv/series
+  - anime
+dateStarted:
+dateFinished:
 ---
