@@ -35,10 +35,12 @@ streamingServices:
   - Viu
   - iQIYI
 airing: false
-airedFrom: 01/10/2021
-airedTo: 03/21/2021
-watched: false
+airedFrom: 2021-01-11
+status:
+airedTo: 2021-03-21
 lastWatched: ""
 personalRating: 0
-tags: mediaDB/tv/series
+tags:
+dateStarted:
+dateFinished:
 ---

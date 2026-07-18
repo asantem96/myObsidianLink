@@ -35,8 +35,8 @@ streamingServices:
   - Bilibili Global
   - Muse Asia
 airing: false
-airedFrom: 07/09/2023
-airedTo: 09/24/2023
+airedFrom: 2021-01-11
+airedTo: 2021-04-22
 status:
   - ✅ Watched
 lastWatched: ""
