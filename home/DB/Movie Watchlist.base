@@ -1,0 +1,20 @@
+views:
+  - type: cards
+    name: Gallery View
+    filters:
+      and:
+        - file.inFolder("main/home/media/anime")
+    order:
+      - title
+      - status
+      - onlineRating
+      - dateStarted
+      - dateFinished
+      - personalRating
+    sort:
+      - property: status
+        direction: DESC
+    image: note.image
+    cardSize: 150
+    imageFit: contain
+    imageAspectRatio: 1.4
