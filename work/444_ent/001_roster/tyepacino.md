@@ -9,7 +9,7 @@ commission_rate: 15%
 contract_start: 2026-01-01
 contract_end: 2028-01-01
 ---
-# 🎨 ARTIST PROFILE: [[ARTIST NAME]]
+# 🎨 ARTIST PROFILE: [[tyepacino]]
 > **Tagline/Vibe:** Brief description of their sound, lane, and brand.
 
 ---
