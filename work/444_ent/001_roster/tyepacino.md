@@ -3,6 +3,8 @@ type: artist_profile
 artist_name: tyepacino
 legal_name: Tyler Moore
 status:
+  - Lead
+  - Active
 commission_rate: 15%
 contract_start: 2026-01-01
 contract_end: 2028-01-01
