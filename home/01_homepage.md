@@ -1,4 +1,4 @@
->
+> [!tip] ## Dashboard
 > **Self**<br>![External Image\|440](https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/van.png) | **Work**<br>![External Image\|440](https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pink-mecha.png) | **Misc.**<br>![External Image\|440](https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wallhaven-28rjj6.png)
 > :---: | :---: | :---:
 > **[[10. Personal\|Personal]] — #personal**   <br> **[[20. PKM Library\|PKM Library]] — #pkm**   <br>  **[[30. MOC List\|MOC List]] — #moc** | Work | [[Others]]
