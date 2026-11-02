@@ -7,7 +7,7 @@
 - [[01_ROSTER/Roster_Overview|🎨 Active Roster]]
 - [[02_OPERATIONS/Entity_Setup|📄 Business & Legal Setup]]
 - [[03_ROLLOUTS/Active_Campaigns|🚀 Current Rollouts]]
-- [[04_CONTACTS/Industry_Rolodex|🎏 Industry Contacts]]
+- [[04_contacts/Industry_Rolodex|🎏 Industry Contacts]]
 - [[05_RESOURCES/Templates_and_SOPs|📚 SOPs & Contract Templates]]
 
 ---

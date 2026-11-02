@@ -28,8 +28,8 @@ contract_end: 2028-01-01
   * *Year 1 Post-Term:* 10%
   * *Year 2 Post-Term:* 5%
 * **Key Team Members:**
-  * **Attorney:** [[04_CONTACTS/Attorney_Name]]
-  * **Business Manager / CPA:** [[04_CONTACTS/CPA_Name]]
+  * **Attorney:** [[04_contacts/Attorney_Name]]
+  * **Business Manager / CPA:** [[04_contacts/CPA_Name]]
   * **Primary Label Partner:** N/A
 
 ---
