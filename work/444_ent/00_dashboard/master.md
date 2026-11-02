@@ -4,11 +4,11 @@
 ---
 
 ### 🎛️ Quick Navigation
-- [[01_roster/Roster_Overview|🎨 Active Roster]]
-- [[02_operations/Entity_Setup|📄 Business & Legal Setup]]
-- [[03_rollouts/Active_Campaigns|🚀 Current Rollouts]]
-- [[04_contacts/Industry_Rolodex|🎏 Industry Contacts]]
-- [[05_resources/Templates_and_SOPs|📚 SOPs & Contract Templates]]
+- [[main/work/444_ent/01_roster/Roster_Overview|🎨 Active Roster]]
+- [[main/work/444_ent/02_operations/Entity_Setup|📄 Business & Legal Setup]]
+- [[main/work/444_ent/03_rollouts/Active_Campaigns|🚀 Current Rollouts]]
+- [[main/work/444_ent/04_contacts/Industry_Rolodex|🎏 Industry Contacts]]
+- [[main/work/444_ent/05_resources/Templates_and_SOPs|📚 SOPs & Contract Templates]]
 
 ---
 
