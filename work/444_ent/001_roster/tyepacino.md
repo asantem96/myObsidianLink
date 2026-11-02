@@ -30,7 +30,7 @@ contract_end: 2028-01-01
 * **Key Team Members:**
   * **Attorney:** [[04_CONTACTS/Attorney_Name]]
   * **Business Manager / CPA:** [[04_CONTACTS/CPA_Name]]
-  * **Primary Label Partner:** 2024 Records
+  * **Primary Label Partner:** N/A
 
 ---
 
