@@ -23,7 +23,7 @@
 ### 🎨 Active Roster Snapshot
 | Artist / Client | Key Focus      | Primary Label / Distribution | Status | Note Link                 |
 | :-------------- | :------------- | :--------------------------- | :----- | :------------------------ |
-| [[main]]        | Single Rollout | 2024 Records                 | Active | [[01_ROSTER/Artist_Name]] |
+| [[tyepacino]]   | Single Rollout | 2024 Records                 | Active | [[01_ROSTER/Artist_Name]] |
 
 ---
 
