@@ -2,7 +2,9 @@
 type: moc
 tags:
   - moc
-updated: {{date}}
+  - homepage
+updated:
+  "{ date }":
 ---
 
 # {{title}}
