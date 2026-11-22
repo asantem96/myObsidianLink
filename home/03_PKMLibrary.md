@@ -1,17 +1,16 @@
 ---
 type: pkm-library
 tags:
-  - pkm
-  - library
   - moc
-updated: {{date}}
+  - pkm-library
+updated:
+  "{ date }":
 ---
-
 # 📚 PKM Library
 
 > [!info] Knowledge Hub
 > Structured reference notes, system guides, and evergreen research—organized by topic rather than buried in folders.
-> **Back to:** [[01_Homepage|🏠 Homepage]] · **Index:** [[04_MOC_List|🗺️ MOC List]]
+> **Back to:** [[01_Homepage|🏠 Homepage]] · **Index:** [[04_MOCList|🗺️ MOC List]]
 
 ---
 
