@@ -3,7 +3,7 @@ views:
     name: Gallery View
     filters:
       and:
-        - file.inFolder("main/home/media/anime")
+        - file.inFolder("main/db/anime")
     order:
       - title
       - status
