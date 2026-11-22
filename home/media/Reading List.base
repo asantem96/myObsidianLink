@@ -3,7 +3,7 @@ views:
     name: Gallery View
     filters:
       and:
-        - file.inFolder("main/db/movie")
+        - file.inFolder("main/db/books")
     order:
       - title
       - status
