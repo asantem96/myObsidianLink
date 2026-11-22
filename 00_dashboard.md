@@ -5,7 +5,7 @@
 > -	⚙️&nbsp; [[main/00_dashboard|Obsidian]]
 > -	🔐&nbsp;  [[02_Personal|Personal]]
 > -	📖 &nbsp; [[03_PKMLibrary|PKM Library]]
-> -	🗺 &nbsp; [[main/home/04_MOCList|MOC List]]
+> -	🗺 &nbsp; [[04_MOCList|MOC List]]
 > -	📓 &nbsp; [[50. Journal|Journal]]
 > -	⚖️ &nbsp; [[60. Life Areas|Life Areas]]
 > -	🏹 &nbsp; [[70. Life Action|Action Management]]

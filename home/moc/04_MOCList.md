@@ -19,7 +19,10 @@ updated:
 
 ---
 ## 💼 WORK (Businesses & Projects)
-- **[[Elasah MOC]]** — Agency offers, client onboarding, IT & digital marketing SOPs - **[[Bear Country Ranch MOC]]** — Shiba Inu breeding records, care logs, content pipeline - **[[Dogman MOC]]** — Brand identity, mood boards, sourcing, R&D notes - **[[Content & Streaming MOC]]** — OBS setups, YouTube/Twitch workflows, community tools
+- **[[Elasah MOC]]** — Agency offers, client onboarding, IT & digital marketing SOPs
+- **[[Bear Country Ranch MOC]]** — Shiba Inu breeding records, care logs, content pipeline
+- **[[Dogman MOC]]** — Brand identity, mood boards, sourcing, R&D notes
+- **[[Content & Streaming MOC]]** — OBS setups, YouTube/Twitch workflows, community tools
 ## Core & Pinned Notes
 - [[Key Note 1]] — *Brief context*
 - [[Key Note 2]] — *Brief context*
