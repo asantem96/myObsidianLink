@@ -3,7 +3,7 @@
 > [!bookmark]+ Links
 > -  🏠 &nbsp; [[main/home/01_homepage|Homepage]]
 > -	⚙️&nbsp; [[main/00_dashboard|Obsidian]]
-> -	🔐&nbsp;  [[main/home/02_personal|Personal]]
+> -	🔐&nbsp;  [[02_Personal|Personal]]
 > -	📖 &nbsp; [[03_PKMLibrary|PKM Library]]
 > -	🗺 &nbsp; [[main/home/04_MOCList|MOC List]]
 > -	📓 &nbsp; [[50. Journal|Journal]]

@@ -1,6 +1,6 @@
 > [!tip] ## Dashboard
 > **Self**<br>![External Image\|440](https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/van.png) | **Work**<br>![External Image\|440](https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/pink-mecha.png) | **Misc.**<br>![External Image\|440](https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/wallhaven-28rjj6.png)
 > :---: | :---: | :---:
-> **[[main/home/02_personal\|Personal]] — #personal**   <br> **[[03_PKMLibrary]] — #pkm**   <br>  **[[30. MOC List\|MOC List]] — #moc** | Work | [[Others]]
+> **[[02_Personal\|Personal]] — #personal**   <br> **[[03_PKMLibrary\|PKM Library]] — #pkm**   <br>  **[[04_MOCList\|MOC List]] — #moc** | Work | [[Others]]
 
 >  
