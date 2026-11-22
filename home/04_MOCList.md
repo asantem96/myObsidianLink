@@ -11,6 +11,11 @@ updated:
 > Central index of all Maps of Content across **Self**, **Work**, and **Collections**.
 
 ---
+## 🌱 SELF (Personal & PKM)
+**[[02_Personal|Personal MOC]]** — Daily routines, health, finances, and home life
+**[[03_PKMLibrary|PKM Library MOC]]** — Reference notes, systems, and learning
+**[[Linux & Systems MOC]]** — Desktop config, scripts, self-hosted servers, troubleshooting
+**[[Design & Creative MOC]]** — Typography, graphics, video editing, UI assets
 
 
 > **Parent Hub:** [[00 - Home MOC]]
