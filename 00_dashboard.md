@@ -1,7 +1,7 @@
 ![[shibabanner1x1.gif#circle|200]]
 
 > [!bookmark]+ Links
-> -  🏠 &nbsp; [[main/home/01_homepage|Homepage]]
+> -  🏠 &nbsp; [[01_Homepage|Homepage]]
 > -	⚙️&nbsp; [[main/00_dashboard|Obsidian]]
 > -	🔐&nbsp;  [[02_Personal|Personal]]
 > -	📖 &nbsp; [[03_PKMLibrary|PKM Library]]
