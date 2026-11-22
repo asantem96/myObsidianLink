@@ -6,8 +6,12 @@ tags:
 updated:
   "{ date }":
 ---
+# 🗺️ MOC List
+> [!abstract] Navigation Hub
+> Central index of all Maps of Content across **Self**, **Work**, and **Collections**.
 
-# {{title}}
+---
+
 
 > **Parent Hub:** [[00 - Home MOC]]
 
